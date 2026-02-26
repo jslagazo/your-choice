@@ -1,0 +1,15 @@
+.kimos-title-font {
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+}
+
+.hero {
+  min-height: 520px;
+  background-image: url("https://www.kimosmaui.com/wp-content/uploads/2018/10/Long-Kimos-Image.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-title {
+  text-shadow: 0 2px 8px rgba(0,0,0,0.55);
+}
